@@ -11,59 +11,6 @@
 			"modoPreparo": "Bata todos os ingredientes em um processador por cerca de dois minutos, até que formem uma massa. Embrulhe a mistura em um papel filme e leve à geladeira por algumas horas até sentir que a massa está dura. Corte em formato de barras e conserve na geladeira.",
 			"link_imagem": "http://data.whicdn.com/images/25686711/large.jpg"
 		},
-
-		{
-			"receita": "Mousse de limão",
-			"ingredientes": "1 lata de leite condensado, 1 lata de creme de leite, 1/2 xícara de limão espremido",
-			"ingredientesBase": {
-				"0": "3",
-				"1": "Leite condensado",
-				"2": "Creme de leite",
-				"3": "Limao"
-			},
-			"modoPreparo": "Coloque o creme de leite e o leite condensado no liquidificador, bata um pouco e acrescente o suco de limão aos poucos. Quando a massa ficar consistente, coloque em um recipiente de vidro e leva à geladeira.",
-			"link_imagem": "http://data.whicdn.com/images/78859362/large.jpg"
-		},
-
-		{
-			"receita": "Sorvete caseiro",
-			"ingredientes": "1 lata de leite condensado, 1 lata de creme de leite, 1 pacote de gelatina do seu sabor preferido",
-			"ingredientesBase": {
-				"0": "3",
-				"1": "Leite condensado",
-				"2": "Creme de leite",
-				"3": "Gelatina"
-			},
-			"modoPreparo": "Prepare a gelatina normalmente (sem levar à geladeira) e enquanto ela ainda estiver quente bata no liquidificador junto com o creme de leite e o leite condensado. Coloque para congelar em um refratário com tampa, bata na batedeira (enquanto estiver congelado) e leve ao freezer novamente.",
-			"link_imagem": "http://www.receitasanamaria.net/wp-content/uploads/2013/11/Receita-Sorvete-de-Gelatina.jpg"
-		},
-
-		{
-			"receita": "Pão de queijo",
-			"ingredientes": "1 caixa de creme de leite, 1 copo de queijo parmesão ralado, 1 copo de polvilho doce",
-			"ingredientesBase": {
-				"0": "3",
-				"1": "Creme de leite",
-				"2": "Queijo parmesao",
-				"3": "Polvilho doce"
-			},
-			"modoPreparo": "Pré aqueça o forno enquanto amassa todos os ingredientes até eles formarem uma massa (que não grude nas mãos), faça bolinhas e coloque para assar em uma forma untada.",
-			"link_imagem":"http://data.whicdn.com/images/70651372/large.jpg"
-		},
-
-		{
-			"receita": "Bolo para café da tarde",
-			"ingredientes": "3 ovos, 2/3 de xícara de farinha com fermento, 1/2 xícara de açúcar refinado",
-			"ingredientesBase": {
-				"0": "3",
-				"1": "Ovos",
-				"2": "Farinha",
-				"3": "Fermento"
-			},
-			"modoPreparo": "Pré aqueça o forno a 190ºC. Em uma tigela, bata os ovos e o açúcar até que formem um creme, depois misture a farinha. Coloque a massa em uma forma untada e asse.",
-			"link_imagem":"http://re.i.uol.com.br/album/bolos_f_030.jpg"
-		},
-
 		{
 			"receita": "Massa de pizza",
 			"ingredientes": "1 xícara de farinha pronta com fermento, 1 xícara de iogurte Grego ou natural",
@@ -167,19 +114,6 @@
 		},
 
 		{
-			"receita": "Brigadeiro de Colher",
-			"ingredientes": "1 lata de leite condensado, 1 colher (sopa) manteiga e 2 colheres (sopa) chocolate em pó",
-			"ingredientesBase": {
-				"0": "3",
-				"1": "Leite condensado",
-				"2": "Manteiga",
-				"3": "Chocolate em po"
-			},
-			"modoPreparo": "Misture o leite condensado, a manteiga, o creme de leite e o chocolate em pó em uma panela. Leve a panela ao fogo. Mexa bem até levantar um pouco de fervura e abaixe o fogo. Misture o chocolate meio amargo derretido no microondas. Espere esfriar, decore com confeitos coloridos ou chocolate granulado e está pronto.",
-			"link_imagem":"http://receitasde.blog.br/wp-content/uploads/2015/05/brigadeiro-de-colher.jpg"
-		},
-
-		{
 			"receita": "Frozen iogurte de morango",
 			"ingredientes": "4 potes de iogurte natural desnatado 1, 1/2 xícaras de chá de morangos congelados, 6 envelopes de adoçante",
 			"ingredientesBase": {
@@ -230,66 +164,6 @@
 			},
 			"modoPreparo": "Coloque suas frutas congeladas de preferência no liquidificador. Adiciona um pouco de liquido e bate. Começa com pouco a adicione mais se for necessário. Para não precisar adicionar muito liquido e perder a textura de sorvete, para de bater frequentemente e mistura com uma colher de pao para ajudar antes de voltar bater de novo. Experimenta e adicione adoçante se achar necessário. Serve já já! Se sobrar você pode colocar a mistura em moldes para picolé e guardar para um outro dia com calor",
 			"link_imagem":"http://www.dicasdemulher.com.br/wp-content/uploads/2014/05/10-smoothies-mais-saudaveis-de-todos-os-tempos.jpg"
-		},
-
-		{
-			"receita": "Omelete de claras com peito de peru",
-			"ingredientes": "4 claras de ovos, meia xicará (chá) de  peito de peru ralado grosso, 1 colher(sopa) margarina",
-			"ingredientesBase": {
-				"0": "3",
-				"1": "Ovo",
-				"2": "Peito de Peru",
-				"3": "Margarina"
-			},
-			"modoPreparo": "Coloque as claras em uma tigela e bata ligeiramente com um batedor de arame ou garfo. Aqueça a margarina em uma frigideira antiaderente (com cerca de 21 cm de diâmetro) e despeje o peito de peru. Deixe secar um pouco e, de vez em quando, movimente a frigideira enquanto a omelete adquire consistência. Com o auxílio de uma espátula, dobre a omelete ao meio e sirva em seguida.",
-			"link_imagem":"http://origin.qualysadia.com.br/sites/default/files/imagecache/img_dicas/geral/img/_15min_0012_omelete_claras_peito_peru_2.jpg"
-		},
-
-		{
-			"receita": "Sorvete de Banana",
-			"ingredientes": "1 ou mais banana",
-			"ingredientesBase": {
-				"0": "1",
-				"1": "Banana"
-			},
-			"modoPreparo": "Descasque as bananas e pique-as em rodelas. Depois coloque-as num prato e leve-as ao ao refrigerador por um tempo de pelo menos 2 horas. Depois coloque as bananas num processador de alimentos. Ligue a máquina e processe a banana até que ela tenha a consistência de um creme suave, que nem sorvete mole. Isso vais demorar um tempinho, e no começo vai parecer que não funciona, mas deixe que a máquina faça seu trabalho e logo você terá um delicioso sorvete de banana. Uma vez que seu sorvete de um único ingrediente estiver pronto, leve-o ao refrigerador até que fique bem firme depois poderá comer à vontade.",
-			"link_imagem":"http://www.camomilanutricao.com.br/wp-content/uploads/2011/08/sorvete-de-banana3.jpg"
-		},
-
-		{
-			"receita": "Torta de nutella",
-			"ingredientes": "4 ovos, 240 g de nutella",
-			"ingredientesBase": {
-				"0": "2",
-				"1": "Ovo",
-				"2": "Nutella"
-			},
-			"modoPreparo": "Bata os ovos inteiros por cerca de 6 minutos até que eles tripliquem de tamanho. Depois, coloque a Nutella em um recipiente de vidro e leve ao micro-ondas por aproximadamente 20 segundos para deixar a consistência mais fluida. Então, acrescente ⅓ da nutella aos ovos batidos misturando bem, e vá fazendo o mesmo com as duas outras partes até que todo o chocolate seja incorporado. Despeje a mistura em uma forma redonda forrada com papel manteiga untado, e coloque para assar em forno pré-aquecido a 175 graus por 20 ou 25 minutos (ou verifique com um palito se a torta já está assada). Só desenforme depois de completamente fria.",
-			"link_imagem":"http://s2.glbimg.com/z_YI9zZlGz-danN4Orluslk8zKQ=/smart/e.glbimg.com/og/ed/f/original/2014/03/18/nutella_2.jpg"
-		},
-
-		{
-			"receita": "Chocolate quente",
-			"ingredientes": "240 ml de leite, 2 colheres de sopa de Nutella",
-			"ingredientesBase": {
-				"0": "2",
-				"1": "Leite",
-				"2": "Nutella"
-			},
-			"modoPreparo": "Coloque 1/4 do leite em uma panela e adicione as 2 colheres de Nutella (se você quiser, pode acrescentar mais!) e leve ao fogo médio-baixo. Incorpore o chocolate até que ele forme uma mistura homogênea e, então, adicione o restante do leite aos poucos, mexendo sem parar. Quando estiver bem quente, retire do fogo, coloque em uma xícara e veja se você consegue encontrar marshmallows, canela ou quem sabe chantilly para incrementar. ",
-			"link_imagem":"http://emmafiorezi.com.br/blog/wp-content/uploads/2015/06/chocolate.jpg"
-		},
-
-		{
-			"receita": "Macaroon cookies",
-			"ingredientes": "500 g de coco ralado, 1 lata de leite condensado",
-			"ingredientesBase": {
-				"0": "2",
-				"1": "Coco ralado",
-				"2": "Leite condesado"
-			},
-			"modoPreparo": "Basta misturar o coco ralado com o leite condensado e colocar bolinhas com a ajuda de uma colher em uma forma forrada com papel manteiga. Depois, leve para assar em um forno pré-aquecido a 180 graus por 10 ou 12 minutos ou até que as bolinhas fiquem levemente douradas.",
-			"link_imagem":"https://wineandplum.files.wordpress.com/2013/04/img_1121.jpg"
 		},
 
 		{
