@@ -1,18 +1,15 @@
 {
 	"receitas": [{
 			"receita": "Bolo de cenoura",
-			"ingredientes": "1 xícara de nozes, 1 xícara de frutas secas, 1 xícara de tâmaras secas sem caroço",
-			"link_imagem": "http://data.whicdn.com/images/25686711/large.jpg"
+			"ingredientes": "1 xícara de nozes, 1 xícara de frutas secas, 1 xícara de tâmaras secas sem caroço"
 		},
 		{
 			"receita": "Massa de pizza",
-			"ingredientes": "1 xícara de farinha pronta com fermento, 1 xícara de iogurte Grego ou natural",			
-			"link_imagem": "https://i.ytimg.com/vi/YsDOmKuuhCU/maxresdefault.jpg"
+			"ingredientes": "1 xícara de farinha pronta com fermento, 1 xícara de iogurte Grego ou natural"
 		},
 		{
 			"receita": "Muffins",
-			"ingredientes": "4 ovos inteiros, 1 xícara de brócolis, meia xícara de queijo ralado",
-			"link_imagem":"http://www.vilamulher.com.br/imagens/default/2014/01/14/muffins-de-brocolis-com-cheddar-6-75-1467.jpg"
+			"ingredientes": "4 ovos inteiros, 1 xícara de brócolis, meia xícara de queijo ralado"
 		}
 	]
 }
